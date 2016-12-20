@@ -1,0 +1,15 @@
+Added mocha globally
+Installed Chai to project
+
+notes on files
+uselogger
+line 7:  1st Entry defaults root to driver and level default
+line 9: 2nd Entry pushes message and level (error) root defaults to driver from line 5
+line 21: 3rd Entry pushes level and message (message is directory path)
+line 31: 4th Output message: This is some yaml
+
+logger.js
+added addition this.data and this.level to logger function
+
+
+Thoughts - Was unsure how deep to get with the test cases.  The statement don't overthink made me start to overthink :)  Can't wait to discuss. 
